@@ -15,6 +15,9 @@ This code requires the following libraries:
 - matplotlib==3.3.4
 
 run ```pip install -r requirements.txt``` to install all the dependencies. 
+
+# Data preparation
+Download the synthetically generated hazy image dataset from this link (https://drive.google.com/file/d/17ZWJOpH1AsYQhoqpWR6PK61HrUhArdAK/view).
 # Citation
 Please cite our paper, if you want to reproduce the results using this code.
 ```
