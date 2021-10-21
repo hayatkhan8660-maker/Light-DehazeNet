@@ -8,6 +8,7 @@ We are working on our code to organize it for GitHub, soon we will be here with 
 ----
 # Dependencies
 This code require the following libraries:
+- torch==1.9.1
 
 # Citation
 Please cite our paper, if you want to reproduce the results using this code.
