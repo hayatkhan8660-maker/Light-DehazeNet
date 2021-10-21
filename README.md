@@ -14,7 +14,7 @@ This code requires the following libraries:
 - PIL==8.2.0
 - matplotlib==3.3.4
 
-
+run ```pip install -r requirements.txt``` to install all the dependencies. 
 # Citation
 Please cite our paper, if you want to reproduce the results using this code.
 ```
