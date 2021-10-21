@@ -7,7 +7,7 @@ We are working on our code to organize it for GitHub, soon we will be here with 
 
 ----
 # Dependencies
-This code require the following libraries:
+This code requires the following libraries:
 - torch==1.9.1
 - torchvision==0.10.1
 - numpy==1.19.2
