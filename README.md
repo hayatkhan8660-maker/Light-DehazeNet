@@ -6,7 +6,8 @@ Light-DehazeNet: A Novel Lightweight CNN Architecture for Single Image Dehazing
 We are working on our code to organize it for GitHub, soon we will be here with complete code. :blush:
 
 
-
+# Dependencies
+This code requires the following libraries:
 
 # Citation
 Please cite our paper, if you want to reproduce the results using this code.
