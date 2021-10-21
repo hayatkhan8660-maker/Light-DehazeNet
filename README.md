@@ -17,7 +17,6 @@ We are working on our code to organize it for GitHub, soon we will be here with 
   year={2021},
   publisher={IEEE}
 }
-}
 ```
 
 ```
