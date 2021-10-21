@@ -7,7 +7,7 @@ We are working on our code to organize it for GitHub, soon we will be here with 
 
 
 # Dependencies
-This code require the following libraries:
+This code require the following _libraries_:
 
 # Citation
 Please cite our paper, if you want to reproduce the results using this code.
