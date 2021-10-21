@@ -9,7 +9,7 @@ We are working on our code to organize it for GitHub, soon we will be here with 
 
 
 # Citation
-Please cite our paper, if you want to reproduce the result using this code.
+Please cite our paper, if you want to reproduce the results using this code.
 ```
 @article{ullah2021light,
   title={Light-DehazeNet: A Novel Lightweight CNN Architecture for Single Image Dehazing},
