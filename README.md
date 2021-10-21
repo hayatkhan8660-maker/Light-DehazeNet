@@ -12,6 +12,7 @@ This code require the following libraries:
 - torchvision==0.10.1
 - numpy==1.19.2
 - PIL==8.2.0
+- matplotlib==3.3.4
 
 
 # Citation
