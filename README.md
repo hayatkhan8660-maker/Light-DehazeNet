@@ -1,6 +1,7 @@
 # Light-DehazeNet
 Light-DehazeNet: A Novel Lightweight CNN Architecture for Single Image Dehazing
 
+![](readme_images/Picture1.png)
 
 # This repository is under preparation
 We are working on our code to organize it for GitHub, soon we will be here with complete code. :blush:
