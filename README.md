@@ -51,6 +51,9 @@ data
    
 ```
 
+### Training
+Run the following command to retrain the LD-Net model on Synthic hazy images from NYU2 Hazy dataset.
+
 # Citation
 Please cite our paper, if you want to reproduce the results using this code.
 ```
