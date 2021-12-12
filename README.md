@@ -3,8 +3,8 @@ Light-DehazeNet: A Novel Lightweight CNN Architecture for Single Image Dehazing
 
 ![](readme_images/Picture1.png)
 
-# This repository is under preparation
-We are working on our code to organize it for GitHub, soon we will be here with complete code. :blush:
+# Introduction
+This repo contains the implementation of our proposed LD-Net, the prerequisite libraries, and link of the dataset we have used in our experiments. For testing purposed we also provide a trained LD-Net weights and test hazy images. 
 
 ----
 # Dependencies
