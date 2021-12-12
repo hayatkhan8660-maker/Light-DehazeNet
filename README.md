@@ -3,10 +3,10 @@ Light-DehazeNet: A Novel Lightweight CNN Architecture for Single Image Dehazing
 
 ![](readme_images/Picture1.png)
 
-### Introduction
+## Introduction
 This repo contains the implementation of our proposed LD-Net, the prerequisite libraries, and link of the dataset we have used in our experiments. For testing purpose we also provide a trained LD-Net weights and test hazy images. 
 
-### Installation
+## Installation
 ---
 This code is written with Anaconda python 3.7. Install the Anaconda python 3.7 and clone the repo with the following command:
 ```
@@ -15,7 +15,7 @@ cd Light-DehazeNet
 ```
 
 ----
-## Dependencies
+### Dependencies
 This code requires the following libraries, install these libraries before testing th code. 
 - torch==1.9.1
 - torchvision==0.10.1
@@ -72,7 +72,13 @@ To run the muliple_test_inference.py, type the following command in terminal:
 python muliple_test_inference.py -td query_hazy_images/outdoor_natural/
 ```
 
-# Citation
+## Experiments
+Originally the LD-Net model is implemented in Python 3.7 and PyTorch 1.9.1 and trained on a PC having NVIDIA GTX 1060 6GB GPU with CUDA 10.0. If you want to retrain the LD-Net model or reproduce the dehazing results make ensure the system meets the aforementioned experimental settings. 
+
+### Obtained Visual Results
+![]()
+
+## Citation
 Please cite our paper, if you want to reproduce the results using this code.
 ```
 @article{ullah2021light,
