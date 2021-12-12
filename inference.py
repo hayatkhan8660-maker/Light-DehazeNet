@@ -20,8 +20,7 @@ import cv2
 
 def image_haze_removel(input_image):
 
-	#hazy_image = Image.fromarray(input_image)
-	#hazy_image = Image.open(input_image)
+	
 	hazy_image = (np.asarray(input_image)/255.0)
 
 	hazy_image = torch.from_numpy(hazy_image).float()
