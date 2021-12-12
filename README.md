@@ -3,11 +3,16 @@ Light-DehazeNet: A Novel Lightweight CNN Architecture for Single Image Dehazing
 
 ![](readme_images/Picture1.png)
 
-# Introduction
+### Introduction
 This repo contains the implementation of our proposed LD-Net, the prerequisite libraries, and link of the dataset we have used in our experiments. For testing purpose we also provide a trained LD-Net weights and test hazy images. 
 
+### Installation
+---
+This code is written with Anaconda python 3.7. Install the Anaconda python 3.7 and clone the repo with the following command:
+```git clone https://github.com/hayatkhan8660-maker/Light-DehazeNet.git```
+
 ----
-# Dependencies
+### Dependencies
 This code requires the following libraries:
 - torch==1.9.1
 - torchvision==0.10.1
