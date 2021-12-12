@@ -9,7 +9,9 @@ This repo contains the implementation of our proposed LD-Net, the prerequisite l
 ### Installation
 ---
 This code is written with Anaconda python 3.7. Install the Anaconda python 3.7 and clone the repo with the following command:
-```git clone https://github.com/hayatkhan8660-maker/Light-DehazeNet.git```
+```
+git clone https://github.com/hayatkhan8660-maker/Light-DehazeNet.git
+```
 
 ----
 ### Dependencies
