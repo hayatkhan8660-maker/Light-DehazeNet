@@ -77,7 +77,9 @@ Originally the LD-Net model is implemented in Python 3.7 and PyTorch 1.9.1 and t
 
 ### Obtained Visual Results
 ![](readme_images/insynres.png)
-
+![](readme_images/ousynres.png)
+![](readme_images/ounatres.png)
+![](readme_images/rgbsdres.png)
 
 ## Citation
 Please cite our paper, if you want to reproduce the results using this code.
