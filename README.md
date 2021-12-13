@@ -1,5 +1,5 @@
 # Light-DehazeNet
-Light-DehazeNet: A Novel Lightweight CNN Architecture for Single Image Dehazing
+Light-DehazeNet: A Novel Lightweight CNN Architecture for Single Image Dehazing [Paper](https://ieeexplore.ieee.org/abstract/document/9562276)
 
 ![](readme_images/framework.png)
 
