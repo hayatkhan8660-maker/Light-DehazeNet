@@ -76,7 +76,7 @@ python muliple_test_inference.py -td query_hazy_images/outdoor_natural/
 Originally the LD-Net model is implemented in Python 3.7 and PyTorch 1.9.1 and trained on a PC having NVIDIA GTX 1060 6GB GPU with CUDA 10.0. If you want to retrain the LD-Net model or reproduce the dehazing results make ensure the system meets the aforementioned experimental settings. 
 
 ### Obtained Visual Results
-![](readme_images/Picture2.png)
+![](readme_images/insynres.png)
 
 
 ## Citation
