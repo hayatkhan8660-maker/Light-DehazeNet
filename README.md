@@ -82,7 +82,7 @@ Originally the LD-Net model is implemented in Python 3.7 and PyTorch 1.9.1 and t
 ![](readme_images/rgbsdres.png)
 
 ### CVR Module :warning:
-Oringinally the CVR module is written in matlab. For user's convenience, we are working to parse it to Python and soon will include it to this repo.   
+Oringinally the CVR module is written in matlab. For user's convenience, we are working to parse it to Python and soon will upload it to this repo.   
 For time being the CVR matlab version can be accessed with the follownig google drive link : (https://drive.google.com/file/d/12myYdZbZqegrORpzn62CEo_pqJwbNaU6/view?usp=sharing)
 
 
