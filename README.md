@@ -65,7 +65,7 @@ To run the single_test_inference.py, type the following command in terminal:
 python single_test_inference.py -i query_hazy_images/outdoor_synthetic/soh(5).jpg
 ```
 
-### Multiple_Image_Inferecing 
+### Multiple_Images_Inferecing 
 To run the muliple_test_inference.py, type the following command in terminal:
 ```
 python muliple_test_inference.py -td query_hazy_images/outdoor_natural/
