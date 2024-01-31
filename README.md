@@ -59,13 +59,13 @@ python run_experiment.py -th data/training_images/data/ -to data/original_images
 ## Inferencing 
 For testing purpose, we provide two different inferencing scripts namely single_test_inference.py and muliple_test_inference.py. Here single_test_inference.py performs dehazing on single image, whereas muliple_test_inference.py dehaze a batch of images at once as per user's requirements.
 
-### Single_Image_Inferecing 
+### Single_Image_Inferencing 
 To run the single_test_inference.py, type the following command in terminal:
 ```
 python single_test_inference.py -i query_hazy_images/outdoor_synthetic/soh(5).jpg
 ```
 
-### Multiple_Images_Inferecing 
+### Multiple_Images_Inferencing 
 To run the muliple_test_inference.py, type the following command in terminal:
 ```
 python muliple_test_inference.py -td query_hazy_images/outdoor_natural/
@@ -82,7 +82,7 @@ Originally the LD-Net model is implemented in Python 3.7 and PyTorch 1.9.1 and t
 
 ### CVR Module :warning:
 Oringinally the CVR module is written in matlab. For user's convenience, we are working to parse it to Python and soon will upload it to this repo.   
-For time being the CVR matlab version can be accessed with the follownig google drive link : (https://drive.google.com/file/d/12myYdZbZqegrORpzn62CEo_pqJwbNaU6/view?usp=sharing)
+For time being the CVR matlab version can be accessed with the following google drive link : (https://drive.google.com/file/d/12myYdZbZqegrORpzn62CEo_pqJwbNaU6/view?usp=sharing)
 
 
 
