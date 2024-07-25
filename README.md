@@ -1,5 +1,14 @@
-# Light-DehazeNet
-Light-DehazeNet: A Novel Lightweight CNN Architecture for Single Image Dehazing [Paper](https://ieeexplore.ieee.org/abstract/document/9562276)
+# Light-DehazeNet: A Novel Lightweight CNN Architecture for Single Image Dehazing
+
+[Hayat Ullah](https://scholar.google.com.pk/citations?user=xnXPj0UAAAAJ&hl=en),
+[Khan Muhammad](https://scholar.google.com.pk/citations?user=k5oUZyQAAAAJ&hl=en),
+[Muhammad Irfan](https://scholar.google.com.pk/citations?user=MfhBA7EAAAAJ&hl=en),
+[Saeed Anwar](https://scholar.google.com.pk/citations?user=vPJIHywAAAAJ&hl=en),
+[Muhammad Sajjad](https://scholar.google.com.pk/citations?user=E4-dElIAAAAJ&hl=en),
+[Ali Shariq Imran](https://scholar.google.com.pk/citations?user=c75cdz8AAAAJ&hl=en&oi=ao)
+[Victor Hugo C. de Albuquerque](https://scholar.google.com.pk/citations?user=meI2k88AAAAJ&hl=en)
+
+[![paper](https://img.shields.io/badge/IEEE|TIP-Paper-<COLOR>.svg)](https://ieeexplore.ieee.org/abstract/document/9562276)
 
 ![](readme_images/framework.png)
 
