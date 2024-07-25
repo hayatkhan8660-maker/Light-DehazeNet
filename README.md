@@ -1,4 +1,4 @@
-# Light-DehazeNet: A Novel Lightweight CNN Architecture for Single Image Dehazing
+# Light-DehazeNet: A Novel Lightweight CNN Architecture for Single Image Dehazing [TIP 2021]
 
 [Hayat Ullah](https://scholar.google.com.pk/citations?user=xnXPj0UAAAAJ&hl=en),
 [Khan Muhammad](https://scholar.google.com.pk/citations?user=k5oUZyQAAAAJ&hl=en),
