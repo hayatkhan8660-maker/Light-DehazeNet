@@ -10,6 +10,12 @@
 
 [![paper](https://img.shields.io/badge/IEEE|TIP-Paper-<COLOR>.svg)](https://ieeexplore.ieee.org/abstract/document/9562276)
 
+<hr />
+
+> **Abstract:**
+>*Due to the rapid development of artificial intelligence technology, industrial sectors are revolutionizing in automation, reliability, and robustness, thereby significantly increasing quality and productivity. Most of the surveillance and industrial sectors are monitored by visual sensor networks capturing different surrounding environment images. However, during tempestuous weather conditions, the visual quality of the images is reduced due to contaminated suspended atmospheric particles that affect the overall surveillance systems. To tackle these challenges, this article presents a computationally efficient lightweight convolutional neural network referred to as Light-DehazeNet (LD-Net) for the reconstruction of hazy images. Unlike other learning-based approaches, which separately measure the transmission map and the atmospheric light, our proposed LD-Net jointly estimates both the transmission map and the atmospheric light using a transformed atmospheric scattering model. Furthermore, a color visibility restoration method is proposed to evade the color distortion in the dehaze image. Finally, we conduct extensive experiments using synthetic and natural hazy images. The quantitative and qualitative evaluation on different benchmark hazy datasets verify the superiority of the proposed method over other state-of-the-art image dehazing techniques. Moreover, additional experimentation validates the applicability of the proposed method in the object detection tasks. Considering the lightweight architecture with minimal computational cost, the proposed system is encouraged to be incorporated as an integral part of the vision-based monitoring systems to improve the overall performance.*
+
+
 ![](readme_images/framework.png)
 
 ## Introduction
